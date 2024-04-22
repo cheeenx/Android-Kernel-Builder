@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "Stormbreaker-KernelSU",
+      "repo": "https://github.com/stormbreaker-project/kernel_realme_salaa",
+      "branch": "14",
+      "device": "salaa"
     },
     "withKernelSU": true,
     "toolchains": [
